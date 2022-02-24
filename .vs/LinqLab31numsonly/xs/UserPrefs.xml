@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8A1CDE61-463B-4BAA-A9B2-215348609EBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqLab31numsonly/Program.cs">
+    <Files>
+      <File FileName="LinqLab31numsonly/Program.cs" Line="39" Column="10" />
+      <File FileName="../LINQ/LINQ/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqLab31numsonly" expanded="True">
+            <Node name="LinqLab31numsonly" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LinqLab31numsonly PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

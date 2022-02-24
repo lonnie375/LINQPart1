@@ -1,0 +1,15 @@
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/LinqLab31numsonly.deps.json
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/LinqLab31numsonly.runtimeconfig.json
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/LinqLab31numsonly.runtimeconfig.dev.json
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/LinqLab31numsonly.dll
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/ref/LinqLab31numsonly.dll
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/bin/Debug/net5.0/LinqLab31numsonly.pdb
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.csproj.AssemblyReference.cache
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.AssemblyInfoInputs.cache
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.AssemblyInfo.cs
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.csproj.CoreCompileInputs.cache
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.dll
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/ref/LinqLab31numsonly.dll
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.pdb
+/Users/lonni/GrandCircusBootCamps/LinqLab31numsonly/LinqLab31numsonly/obj/Debug/net5.0/LinqLab31numsonly.genruntimeconfig.cache
